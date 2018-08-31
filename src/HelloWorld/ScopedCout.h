@@ -43,7 +43,7 @@ public:
 		{
 			Poco::FastMutex::ScopedLock lock(g_fastMutexCriticalCout);
 			std::cout << _ss.str() << std::endl;
-			_ss.clear();
+			_ss.str("");
 		}
 		return *this;
 	}

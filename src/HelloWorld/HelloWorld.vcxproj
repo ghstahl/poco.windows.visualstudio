@@ -156,6 +156,7 @@
     <ClInclude Include="EventSourceT.h" />
     <ClInclude Include="MyErrorHandler.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="RunnableLifecycleNotification.h" />
     <ClInclude Include="ScopedCout.h" />
     <ClInclude Include="ThreadEventSink.h" />
     <ClInclude Include="ThreadEventSinkBase.h" />
