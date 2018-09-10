@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PocoTaskManagerPlay", "Poco
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BST.Play", "BST.Play\BST.Play.vcxproj", "{F7716D01-A55C-4C05-A82C-61C7C6F61566}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Poco.ThreadPool.Hang", "Poco.ThreadPool.Hang\Poco.ThreadPool.Hang.vcxproj", "{39CA026F-2618-4E12-903A-69B755979A58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Poco.ThreadEvent.Play", "Poco.ThreadEvent.Play\Poco.ThreadEvent.Play.vcxproj", "{17BC43FB-21CF-49EC-A4D6-AF1042853058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +65,22 @@ Global
 		{F7716D01-A55C-4C05-A82C-61C7C6F61566}.Release|x64.Build.0 = Release|x64
 		{F7716D01-A55C-4C05-A82C-61C7C6F61566}.Release|x86.ActiveCfg = Release|Win32
 		{F7716D01-A55C-4C05-A82C-61C7C6F61566}.Release|x86.Build.0 = Release|Win32
+		{39CA026F-2618-4E12-903A-69B755979A58}.Debug|x64.ActiveCfg = Debug|x64
+		{39CA026F-2618-4E12-903A-69B755979A58}.Debug|x64.Build.0 = Debug|x64
+		{39CA026F-2618-4E12-903A-69B755979A58}.Debug|x86.ActiveCfg = Debug|Win32
+		{39CA026F-2618-4E12-903A-69B755979A58}.Debug|x86.Build.0 = Debug|Win32
+		{39CA026F-2618-4E12-903A-69B755979A58}.Release|x64.ActiveCfg = Release|x64
+		{39CA026F-2618-4E12-903A-69B755979A58}.Release|x64.Build.0 = Release|x64
+		{39CA026F-2618-4E12-903A-69B755979A58}.Release|x86.ActiveCfg = Release|Win32
+		{39CA026F-2618-4E12-903A-69B755979A58}.Release|x86.Build.0 = Release|Win32
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Debug|x64.ActiveCfg = Debug|x64
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Debug|x64.Build.0 = Debug|x64
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Debug|x86.ActiveCfg = Debug|Win32
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Debug|x86.Build.0 = Debug|Win32
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Release|x64.ActiveCfg = Release|x64
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Release|x64.Build.0 = Release|x64
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Release|x86.ActiveCfg = Release|Win32
+		{17BC43FB-21CF-49EC-A4D6-AF1042853058}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
